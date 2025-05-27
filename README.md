@@ -1,6 +1,5 @@
 # Crop Recommendation System
 
-This repository contains the implementation of a Crop Recommendation System. The system is designed to help farmers choose the most suitable crops for their land based on various environmental and soil parameters. Leveraging machine learning techniques, the system analyzes data inputs such as soil type, weather conditions, and historical crop yield data to provide recommendations.
 
 ## Features
 
